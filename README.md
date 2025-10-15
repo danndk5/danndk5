@@ -1,8 +1,7 @@
 # 👋 Halo, saya danndk5!
 
 Saya sedang belajar **Full-Stack Developer** saya juga sangat antusias belajar teknologi seperti **Automation**, **AI**, **Web Development**, dan **Application Development**.  
-belajar **setup environment developer**, **testing API**, **database management**, dan **pengelolaan container menggunakan Docker**.
-
+belajar **setup environment developer**, **testing API**, **database management**, dan **pengelolaan container menggunakan Docker**. **Lihat Repository saya**
 
 ### Keahlian dasar
 - 🌐 **Front-End:** HTML, CSS, JavaScript  
