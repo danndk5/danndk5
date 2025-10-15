@@ -1,7 +1,7 @@
 # 👋 Halo, saya danndk5!
 
 Saya sedang belajar **Full-Stack Developer** saya juga sangat antusias belajar teknologi seperti **Automation**, **AI**, **Web Development**, dan **Application Development**.  
-belajar **setup environment developer**, **testing API**, **database management**, dan **pengelolaan container menggunakan Docker**. **Lihat Repository saya**
+belajar **setup environment developer**, **testing API**, **database management**, dan **pengelolaan container menggunakan Docker**.
 
 ### Keahlian dasar
 - 🌐 **Front-End:** HTML, CSS, JavaScript  
@@ -36,5 +36,7 @@ belajar **setup environment developer**, **testing API**, **database management*
 📧 Email: dandimho5@gmail.com  
 
 ### ✨ semuanya saya lakukan tidak lebih hanya sekedar menyalurkan Hobi semata, tanpa tutorial YouTube dan hanya belajar otodidak mengandalkan pemahaman dari penjelasan dari AI, seperti Chatgpt, Claude, & Gemini
+
+**Kunjungi Repository Saya, untuk melihat beberapa hal yang saya kembangkan sendiri**
 
 ⭐ *Terus belajar, belajar dan belajar.*
